@@ -1,0 +1,53 @@
+.nav-item{
+    display: block;
+    font-size: 13px;
+    color: #bdbdbd;
+    text-transform: uppercase;
+    padding: 17px 17 px;
+    border-bottom: 0 solid #2c333d;
+    position: relative;
+   
+}
+
+a {
+    text-decoration: none;
+}
+#imgLogo{
+    padding: 0PX;
+    margin: 0PX;
+}
+.logsign{
+    padding-right: 500px;
+    float: right;
+    display:flex;
+   justify-content: end;
+}
+.center{
+  text-align: center;
+  
+
+}
+.logo{
+    padding-right:0;
+
+}
+.hide{
+   margin-left: 10%;
+   margin-top: 20px;
+
+   
+}
+bi bi-bank2{
+    font-size: larger;
+}
+
+.chennai{
+    align-items: center;
+    color: black;
+}
+.cardvik{
+    justify-content: center;
+}
+.btn btn-primary{
+    background-color:#ffc20e;
+}
